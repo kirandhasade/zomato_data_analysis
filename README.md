@@ -30,7 +30,7 @@ We are using two datasets:
 1. restaurant_id: 
 - Unique id for each restaurant across various cities of the world
 - Also this column is Primary key column in table. (Total number of rows in dataset: 9551 and total unique restarant ids are 9551.)
-- <img src=graphs_screenshots/Q.1_screenshot.png>
+
 
 2. restaurant_name:
 - Restaurant name belongs to its id.
@@ -125,14 +125,16 @@ We are using two datasets:
 #### Q.1: Top 3 countries that uses the zomato?(SS)
 - Maximum number of transctions is in India
 - Zomato dataset maximum records are from India followed by USA and United Kingdom.
+ - <img src=graphs_screenshots/Q.1_screenshot.png>
 
  #### Q.2 Find maximum number of rating?
 When rating is between:
-    - 4.5 to 4.9  ---> Excellent
-    - 4.0 to 4.4  ---> Very good
-    - 3.5 to 3.9  ---> Good
-    - 2.5 to 3.4  ---> Average
-    - 1.8 to 2.4  ---> Poor
+    - 4.5 to 4.9  ---> Excellent<br>
+    - 4.0 to 4.4  ---> Very good<br>
+    - 3.5 to 3.9  ---> Good<br>
+    - 2.5 to 3.4  ---> Average<br>
+    - 1.8 to 2.4  ---> Poor<br>
+    -<img src=graphs_screenshots/Q.2_ratings_screenshot.png>
 - As labeled in graph - 3737 restaurants didn't have any rating.
 - Rating shows normal distribution i.e. the data follows a bell shape, with most values clustering around a central region and tapering off as they go further away from the center.
 - Maximum number restaurants are average rated i.e. between 3 to 3.5.
