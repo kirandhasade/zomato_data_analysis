@@ -30,7 +30,7 @@ We are using two datasets:
 1. restaurant_id: 
 - Unique id for each restaurant across various cities of the world
 - Also this column is Primary key column in table. (Total number of rows in dataset: 9551 and total unique restarant ids are 9551.)
-- <img src=graphs_screenshots/Q.10_a_screenshot.png>
+- <img src=graphs_screenshots/Q.1_screenshot.png>
 
 2. restaurant_name:
 - Restaurant name belongs to its id.
