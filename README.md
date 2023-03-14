@@ -122,7 +122,7 @@ We are using two datasets:
 
 ## Phase 3. Data Analysis
 
-#### Q.1: Top 3 countries that uses the zomato?(SS)
+#### Q.1: Top 3 countries that uses the zomato?
 - Maximum number of transctions is in India
 - Zomato dataset maximum records are from India followed by USA and United Kingdom.
  - <img src=graphs_screenshots/Q.1_screenshot.png>
