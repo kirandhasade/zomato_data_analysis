@@ -180,7 +180,7 @@ North Indian,Chinese,Fast food, Mughlai are few popular cuisines in India.
 
 #### Q.11 a) Create a histogram for distribution of votes across India ?
 A major of Indian restaurents ratings are Zero
--<img src=graphs_screenshots/Q.11_a_screenshot.png>
+ -<img src=graphs_screenshots/Q.11_a_screenshot.png>
 
 #### Q.11 b) Create a histogram for distribution of votes across United States ?
 - USA restaurants have higher ratings compared with Indian restaurants, this could indicate a better service in the US.
