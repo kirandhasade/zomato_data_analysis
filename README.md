@@ -146,18 +146,18 @@ When rating is between:<br>
  <img src=graphs_screenshots/Q.3_screenshot.png>
 
 #### Q.4 Distribution of restaurent across countries?
-India has largest number of restaurants across countries which consit of 90% followed by United States and United Kingdom.
+- India has largest number of restaurants across countries which consit of 90% followed by United States and United Kingdom.
 <img src=graphs_screenshots/Q.4_screenshot.png>
 
 #### Q.5.  Find out which currency is used by which country?
 <img src=graphs_screenshots/Q.5_screenshot.png>
 
 #### Q.6. Which countries do have online Delivery options and which have not online delivery options?
-Indian and UAE restaurants only have Online Delivery options in this dataset.
+- Indian and UAE restaurants only have Online Delivery options in this dataset.
 <img src=graphs_screenshots/Q.6_screenshot.png>
 
 #### Q.7 Create a pie chart for  top 5 cities distribution.
-New Delhi has maximum number of restaurants followed by Gurgoan and Noida
+- New Delhi has maximum number of restaurants followed by Gurgoan and Noida
 <img src=graphs_screenshots/Q.7_screenshot.png>
 
  #### Q.8. Find the top 10 Cuisines
@@ -166,11 +166,11 @@ New Delhi has maximum number of restaurants followed by Gurgoan and Noida
 <img src=graphs_screenshots/Q.8_screenshot.png>
 
 #### Q.9. Which country has cheapest food?
-India has the cheapest average cost for 2 persons, followed by Sri Lanka and Indonesia.
+- India has the cheapest average cost for 2 persons, followed by Sri Lanka and Indonesia.
 <img src=graphs_screenshots/Q.9_screenshot.png>
 
 #### Q.10 a) Create a tree map for cuisines for India
-North Indian,Chinese,Fast food, Mughlai are few popular cuisines in India.
+- North Indian,Chinese,Fast food, Mughlai are few popular cuisines in India.
 <img src=graphs_screenshots/Q.10_a_screenshot.png>
 
 #### Q.10 b) Tree map for Cuisines for United States
@@ -179,7 +179,7 @@ North Indian,Chinese,Fast food, Mughlai are few popular cuisines in India.
 <img src=graphs_screenshots/Q.10_b_screenshot.png>
 
 #### Q.11 a) Create a histogram for distribution of votes across India ?
-A major of Indian restaurents ratings are Zero
+- A major of Indian restaurents ratings are Zero
  <img src=graphs_screenshots/Q.11_a_screenshot.png>
 
 #### Q.11 b) Create a histogram for distribution of votes across United States ?
