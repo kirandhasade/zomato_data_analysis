@@ -161,7 +161,7 @@ When rating is between:<br>
 <img src=graphs_screenshots/Q.7_screenshot.png>
 
  #### Q.8. Find the top 10 Cuisines
-- North Indian food dominates the Indian taste buds,because majority of the restaurents are based out of North India(Previosu graph).
+- North Indian food dominates the Indian taste buds,because majority of the restaurents are based out of North India.
 - North Indian,Chinese,Fast food,Mughlai are few popular cuisines in India.
 <img src=graphs_screenshots/Q.8_screenshot.png>
 
