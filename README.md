@@ -128,7 +128,7 @@ We are using two datasets:
  - <img src=graphs_screenshots/Q.1_screenshot.png>
 
  #### Q.2 Find maximum number of rating?
-When rating is between:
+When rating is between:<br>
     - 4.5 to 4.9  ---> Excellent<br>
     - 4.0 to 4.4  ---> Very good<br>
     - 3.5 to 3.9  ---> Good<br>
