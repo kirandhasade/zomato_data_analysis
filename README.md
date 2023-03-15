@@ -22,7 +22,7 @@ Using Zomato dataset we try to find out following questions answer:
 We are using two datasets:
 1. Zomato dataset which include restaurant information along with its ratings details.
 2. Country dataset that helps us to add country information from its country code from Zomato dataset.
-3. Created a dictionary for currency exchange in dollars for analysis
+3. Created a dictionary for each local currencies average currency exchange rate for the current month in dollars for analysis.
   
 ## Phase 2. Data Understanding, Cleaning & Preparation
 
