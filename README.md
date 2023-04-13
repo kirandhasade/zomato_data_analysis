@@ -11,7 +11,7 @@ Using Zomato dataset we try to find out following questions answer:
    7. Create a pie chart for  top 5 cities distribution.
    8. Find the top 10 Cuisines
    9. Which country has cheapest food?
-   10.a) Create a tree map for cuisines for India. <br> b. Create a tree map for cuisines for United States.
+   10. a) Create a tree map for cuisines for India. <br> b. Create a tree map for cuisines for United States.
    11. a) Create a histogram for distribution of votes across India ?<br> b) Create a histogram for distribution of votes across United States ?
 ### Analysis Involve Phases:
 1. Data collection
