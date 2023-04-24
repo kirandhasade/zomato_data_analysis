@@ -129,6 +129,7 @@ We are using two datasets:
 ## Phase 3. Data Analysis
 
 #### Q.1: Top 3 countries that uses the zomato?
+- As per the dataset:
 - Maximum number of transctions is in India
 - Zomato dataset maximum records are from India followed by USA and United Kingdom.
  <img src=graphs_screenshots/Q.1_screenshot.png>
@@ -152,7 +153,7 @@ When rating is between:<br>
  <img src=graphs_screenshots/Q.3_screenshot.png>
 
 #### Q.4 Distribution of restaurent across countries?
-- India has largest number of restaurants across countries which consit of 90% followed by United States and United Kingdom.
+- Dataset consist maximum number of restaurants records are from India i.e almost 90% followed by United States and United Kingdom.
 <img src=graphs_screenshots/Q.4_screenshot.png>
 
 #### Q.5.  Find out which currency is used by which country?
@@ -189,10 +190,11 @@ When rating is between:<br>
  <img src=graphs_screenshots/Q.11_a_screenshot.png>
 
 #### Q.11 b) Create a histogram for distribution of votes across United States ?
+- As per the dataset:
 - USA restaurants have higher ratings compared with Indian restaurants, this could indicate a better service in the US.
 - US customers provide ratings more frequently and consistently than Indians.
 <img src=graphs_screenshots/Q.11_b_screenshot.png>
 
 ### End Note
-90% of observations belong to India.
+-As per the dataset: 90% of observations belong to India.
                   
