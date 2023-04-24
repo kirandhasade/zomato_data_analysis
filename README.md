@@ -196,5 +196,5 @@ When rating is between:<br>
 <img src=graphs_screenshots/Q.11_b_screenshot.png>
 
 ### End Note
--As per the dataset: 90% of observations belong to India.
+- As per the dataset: 90% of observations belong to India.
                   
